@@ -973,7 +973,7 @@ Whose turn is it today?
 ----------------------------------------------------------------------
 
 
-Thanks for reading. If you'd like to receive a printed booklet edition, consider making a donation to the charity of your choice and sending me a photo of your receipt and mailing address at <a href="mailto:dennis@emptypots.com?subject=Donation%20Receipt">dennis@emptypots.com</a>
+Thanks for reading. If you'd like to receive a printed booklet edition, consider making a donation to the charity of your choice and sending me a photo of your receipt and mailing address at <a href="mailto:dennis.tru@gmail.com?subject=Donation%20Receipt">dennis.tru@gmail.com</a>
 Postage provided for delivery within Canada. International postage rates apply, contact for additional details.
 
 All rights reserved. © Empty Pots Press, 2026
